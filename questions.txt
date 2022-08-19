@@ -1,0 +1,5 @@
+how many rides in each day ?
+which day is the most one ?
+which hour is the rush time ? 
+Do we have repeated  guest ?
+how many rides have more than 4 passenger ?
